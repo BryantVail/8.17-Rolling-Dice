@@ -1,0 +1,6 @@
+C:\Users\Bryant\Documents\GitHub\8.17-Rolling-Dice\RollingDice8-17\RollingDice8-17\bin\Debug\RollingDice8-17.exe.config
+C:\Users\Bryant\Documents\GitHub\8.17-Rolling-Dice\RollingDice8-17\RollingDice8-17\bin\Debug\RollingDice8-17.exe
+C:\Users\Bryant\Documents\GitHub\8.17-Rolling-Dice\RollingDice8-17\RollingDice8-17\bin\Debug\RollingDice8-17.pdb
+C:\Users\Bryant\Documents\GitHub\8.17-Rolling-Dice\RollingDice8-17\RollingDice8-17\obj\Debug\RollingDice8-17.csprojResolveAssemblyReference.cache
+C:\Users\Bryant\Documents\GitHub\8.17-Rolling-Dice\RollingDice8-17\RollingDice8-17\obj\Debug\RollingDice8-17.exe
+C:\Users\Bryant\Documents\GitHub\8.17-Rolling-Dice\RollingDice8-17\RollingDice8-17\obj\Debug\RollingDice8-17.pdb
